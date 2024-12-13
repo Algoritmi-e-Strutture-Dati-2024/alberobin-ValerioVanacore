@@ -1,0 +1,19 @@
+La radice è il 30 (non ha genitori)
+Abbiamo due figli : 
+ - il figlio sinistro della radice è il 12
+- il figlio destro della radice è il 7 
+
+Il figlio 12 ha altri 2 figli : 
+-	Il figlio sinistro 2 
+-	Il figlio destro 3 
+Il figlio 7 ha altri 2 figli :
+-	Il figlio sinistro 8
+-	Il figlio destro 9
+
+
+
+                                             30
+
+                                     12                 7
+
+                                 2      3            8       9
